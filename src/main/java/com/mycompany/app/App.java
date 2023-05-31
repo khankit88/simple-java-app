@@ -10,7 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
-        System.out.println("Hello there ! I am complex Java app");
+        System.out.println("wow, today weather is so colddd!");
     }
 
     public String getMessage() {
